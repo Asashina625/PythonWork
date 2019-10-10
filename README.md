@@ -1,5 +1,5 @@
 En
-#About this repository
+# About this repository
  A repository for learning Python. No content beyond the book has been committed.
 
 ## Reference books
